@@ -1,3 +1,3 @@
-#ALERT#
+# ALERT
 
-This is for website stuff
+This is for website stuff. Make your own folder and put your stuff into it... Maybe...
